@@ -136,6 +136,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
@@ -654,7 +655,7 @@
       <workItem from="1486060042638" duration="258000" />
       <workItem from="1486060323436" duration="2635000" />
       <workItem from="1486063092028" duration="2765000" />
-      <workItem from="1486066115441" duration="8079000" />
+      <workItem from="1486066115441" duration="8621000" />
     </task>
     <servers />
   </component>
@@ -691,7 +692,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13737000" />
+    <option name="totallyTimeSpent" value="14279000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1622" y="86" width="1365" height="837" extended-state="0" />
