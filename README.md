@@ -4,7 +4,7 @@ I have written the assignment in Java programming language and used IntelliJ. In
 The clip can be found at: https://goo.gl/NO833I
 
 
-Answers to bonus questions:
+Answers to additional questions:
 
 A. We can clean app cache using drive.resetApp() or using flag -full-reset (implemented)
 
