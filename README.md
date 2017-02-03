@@ -20,4 +20,3 @@ I have identified 3 approaches:
 2. Spawn predefined number of Appium servers with the help of an shell script and then just deploy the tests to these different server instances (devices).
 3. Using the "AppiumServiceBuilder" class we could spawn server instances (similar to 1.). 
 
-All of the above mentioned methods are pretty similar.
