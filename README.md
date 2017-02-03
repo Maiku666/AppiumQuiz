@@ -18,5 +18,5 @@ I have identified 3 approaches:
 
 1. Execute tests and spawn new Appium server instances directly from Java (with the help of "CommandPrompt" class).
 2. Spawn predefined number of Appium servers with the help of an shell script and then just deploy the tests to these different server instances (devices).
-3. Using the "AppiumServiceBuilder" class we could spawn server instances (similar to 1.). 
+3. Using the "AppiumServiceBuilder" class (http://appium.github.io/java-client/io/appium/java_client/service/local/AppiumServiceBuilder.html) we could spawn server instances (similar to 1.). 
 
